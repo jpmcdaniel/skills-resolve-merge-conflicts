@@ -1,1 +1,3 @@
-This text will conflict.
+# References
+
+* octocat 1 😈
